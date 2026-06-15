@@ -1,4 +1,3 @@
-<img width="240" height="240" alt="243" src="https://github.com/user-attachments/assets/f840d8c4-41a3-49be-baa0-9eb219d05896" />
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=9999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Eric+Wan+%F0%9F%91%8B)](https://git.io/typing-svg)
