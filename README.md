@@ -6,7 +6,11 @@
 
 <div align="left">
 
-🎓 Electrical Engineering @ University of Waterloo <img width="20" alt="243" src="https://github.com/user-attachments/assets/f840d8c4-41a3-49be-baa0-9eb219d05896" />
+---
+
+### 👤 About Me
+
+🎓 Electrical Engineering @ University of Waterloo <img width="35" alt="243" src="https://github.com/user-attachments/assets/f840d8c4-41a3-49be-baa0-9eb219d05896" style="vertical-align: middle;" />
 
 🔧 I like building things — hardware, software, and everything in between
 
@@ -16,7 +20,7 @@
 
 ### ⚙️ Tech Stack
 
-**<font color="#FF6B6B">Languages</font>**
+<font color="#FF6B6B"><b>Languages</b></font>
 
 ![C](https://img.shields.io/badge/C-58A6FF?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-58A6FF?style=flat&logo=cplusplus&logoColor=white)
@@ -30,7 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-58A6FF?style=flat&logo=css3&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-58A6FF?style=flat&logo=mathworks&logoColor=white)
 
-**<font color="#4ECDC4">Frontend</font>**
+<font color="#4ECDC4"><b>Frontend</b></font>
 
 ![React](https://img.shields.io/badge/React-58A6FF?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-58A6FF?style=flat&logo=nextdotjs&logoColor=white)
@@ -38,7 +42,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-58A6FF?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-58A6FF?style=flat&logo=vite&logoColor=white)
 
-**<font color="#45B7D1">Backend & APIs</font>**
+<font color="#45B7D1"><b>Backend & APIs</b></font>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-58A6FF?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-58A6FF?style=flat&logo=nodedotjs&logoColor=white)
@@ -47,7 +51,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-58A6FF?style=flat&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-58A6FF?style=flat&logo=passport&logoColor=white)
 
-**<font color="#96CEB4">Databases & Data</font>**
+<font color="#96CEB4"><b>Databases & Data</b></font>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58A6FF?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-58A6FF?style=flat&logo=mysql&logoColor=white)
@@ -55,14 +59,14 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-58A6FF?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-58A6FF?style=flat&logo=pandas&logoColor=white)
 
-**<font color="#F9CA24">AI & ML</font>**
+<font color="#F9CA24"><b>AI & ML</b></font>
 
 ![LangChain](https://img.shields.io/badge/LangChain-58A6FF?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-58A6FF?style=flat&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-58A6FF?style=flat&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-58A6FF?style=flat&logoColor=white)
 
-**<font color="#A29BFE">Embedded & Hardware</font>**
+<font color="#A29BFE"><b>Embedded & Hardware</b></font>
 
 ![STM32](https://img.shields.io/badge/STM32-58A6FF?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-58A6FF?style=flat&logo=espressif&logoColor=white)
@@ -77,7 +81,7 @@
 ![KiCad](https://img.shields.io/badge/KiCad-58A6FF?style=flat&logo=kicad&logoColor=white)
 ![Soldering](https://img.shields.io/badge/Soldering-58A6FF?style=flat&logoColor=white)
 
-**<font color="#FD79A8">Tools</font>**
+<font color="#FD79A8"><b>Tools</b></font>
 
 ![Git](https://img.shields.io/badge/Git-58A6FF?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat&logo=github&logoColor=white)
