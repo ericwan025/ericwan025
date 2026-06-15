@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=9999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Eric+Wan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🎓 Electrical Engineering @ University of Waterloo <img src="./243.gif" width="28" />
+🎓 Electrical Engineering @ University of Waterloo <img width="120" height="120" alt="243" src="https://github.com/user-attachments/assets/f840d8c4-41a3-49be-baa0-9eb219d05896" />
 
 🔧 I like building things — hardware, software, and everything in between
 
@@ -53,12 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ericwan025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericwan025&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
-
----
 
 <a href="https://www.linkedin.com/in/ericwan025">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
