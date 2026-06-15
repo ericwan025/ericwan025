@@ -2,9 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=9999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Eric+Wan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<img width="200" alt="243" src="https://github.com/user-attachments/assets/f840d8c4-41a3-49be-baa0-9eb219d05896" />
+
+</div>
+
 <div align="left">
 
-🎓 Electrical Engineering @ University of Waterloo <img width="30" alt="243" src="https://github.com/user-attachments/assets/f840d8c4-41a3-49be-baa0-9eb219d05896" />
+🎓 Electrical Engineering @ University of Waterloo
 
 🔧 I like building things — hardware, software, and everything in between
 
@@ -81,9 +85,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
 ---
 
 <a href="https://www.linkedin.com/in/ericwan025">
