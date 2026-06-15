@@ -20,74 +20,74 @@
 
 ### ⚙️ Tech Stack
 
-$\color{#FF6B6B}{\textsf{Languages}}$
+**Languages**
 
-![C](https://img.shields.io/badge/C-58A6FF?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-58A6FF?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-58A6FF?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-58A6FF?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-58A6FF?style=flat&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-58A6FF?style=flat&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-58A6FF?style=flat&logo=ruby&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-58A6FF?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-58A6FF?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-58A6FF?style=flat&logo=css3&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-58A6FF?style=flat&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-FF6B6B?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF6B6B?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B6B?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6B6B?style=flat&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF6B6B?style=flat&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-FF6B6B?style=flat&logo=ruby&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF6B6B?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6B6B?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF6B6B?style=flat&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6B6B?style=flat&logo=mathworks&logoColor=white)
 
-$\color{#4ECDC4}{\textsf{Frontend}}$
+**Frontend**
 
-![React](https://img.shields.io/badge/React-58A6FF?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-58A6FF?style=flat&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-58A6FF?style=flat&logo=threedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-58A6FF?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-58A6FF?style=flat&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-4ECDC4?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-4ECDC4?style=flat&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-4ECDC4?style=flat&logo=threedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4ECDC4?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4ECDC4?style=flat&logo=vite&logoColor=white)
 
-$\color{#45B7D1}{\textsf{Backend \& APIs}}$
+**Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-58A6FF?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-58A6FF?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-58A6FF?style=flat&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-58A6FF?style=flat&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-58A6FF?style=flat&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-58A6FF?style=flat&logo=passport&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-45B7D1?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-45B7D1?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-45B7D1?style=flat&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-45B7D1?style=flat&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-45B7D1?style=flat&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-45B7D1?style=flat&logo=passport&logoColor=white)
 
-$\color{#96CEB4}{\textsf{Databases \& Data}}$
+**Databases & Data**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58A6FF?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-58A6FF?style=flat&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-58A6FF?style=flat&logo=snowflake&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-58A6FF?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-58A6FF?style=flat&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E9E7E?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5E9E7E?style=flat&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-5E9E7E?style=flat&logo=snowflake&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-5E9E7E?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-5E9E7E?style=flat&logo=pandas&logoColor=white)
 
-$\color{#F9CA24}{\textsf{AI \& ML}}$
+**AI & ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-58A6FF?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-58A6FF?style=flat&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-58A6FF?style=flat&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-58A6FF?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-D4A017?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-D4A017?style=flat&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-D4A017?style=flat&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-D4A017?style=flat&logoColor=white)
 
-$\color{#A29BFE}{\textsf{Embedded \& Hardware}}$
+**Embedded & Hardware**
 
-![STM32](https://img.shields.io/badge/STM32-58A6FF?style=flat&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-58A6FF?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-58A6FF?style=flat&logo=arduino&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN-58A6FF?style=flat&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-58A6FF?style=flat&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-58A6FF?style=flat&logoColor=white)
-![UART](https://img.shields.io/badge/UART-58A6FF?style=flat&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-58A6FF?style=flat&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-58A6FF?style=flat&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-58A6FF?style=flat&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-58A6FF?style=flat&logo=kicad&logoColor=white)
-![Soldering](https://img.shields.io/badge/Soldering-58A6FF?style=flat&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-7B6FD9?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-7B6FD9?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-7B6FD9?style=flat&logo=arduino&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-7B6FD9?style=flat&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-7B6FD9?style=flat&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-7B6FD9?style=flat&logoColor=white)
+![UART](https://img.shields.io/badge/UART-7B6FD9?style=flat&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-7B6FD9?style=flat&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-7B6FD9?style=flat&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-7B6FD9?style=flat&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-7B6FD9?style=flat&logo=kicad&logoColor=white)
+![Soldering](https://img.shields.io/badge/Soldering-7B6FD9?style=flat&logoColor=white)
 
-$\color{#FD79A8}{\textsf{Tools}}$
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-58A6FF?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-58A6FF?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-58A6FF?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-58A6FF?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E0547A?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-E0547A?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-E0547A?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-E0547A?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E0547A?style=flat&logo=figma&logoColor=white)
 ---
 
 <a href="https://www.linkedin.com/in/ericwan025">
