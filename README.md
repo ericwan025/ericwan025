@@ -90,7 +90,7 @@
 ![Figma](https://img.shields.io/badge/Figma-A07080?style=flat&logo=figma&logoColor=white)
 ---
 
-<a href="https://www.linkedin.com/in/ericwan025">
+<a href="www.linkedin.com/in/eric-wan025">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://eric-wan.ca">
