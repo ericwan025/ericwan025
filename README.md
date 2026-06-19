@@ -12,7 +12,7 @@
 
 🎓 Electrical Engineering @ University of Waterloo <img width="25" height="25" alt="243" src="https://github.com/user-attachments/assets/f840d8c4-41a3-49be-baa0-9eb219d05896" />
 
-🔧 I like building things — hardware, software, and everything in between
+🔧 I love building things — hardware, software, and everything in between
 
 🚀 Always looking for the next project to obsess over
 
