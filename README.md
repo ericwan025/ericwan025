@@ -25,6 +25,8 @@
 ![Python](https://img.shields.io/badge/Python-C08080?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-C08080?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C08080?style=flat&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-C08080?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-C08080?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-C08080?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-C08080?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-C08080?style=flat&logo=openjdk&logoColor=white)
@@ -39,6 +41,7 @@
 ![React](https://img.shields.io/badge/React-6B9E9A?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-6B9E9A?style=flat&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-6B9E9A?style=flat&logo=threedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-6B9E9A?style=flat&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-6B9E9A?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6B9E9A?style=flat&logo=vite&logoColor=white)
 
@@ -55,12 +58,19 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-7090A0?style=flat&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-7090A0?style=flat&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-7090A0?style=flat&logo=passport&logoColor=white)
+![axum](https://img.shields.io/badge/axum-7090A0?style=flat&logo=rust&logoColor=white)
+![tokio](https://img.shields.io/badge/tokio-7090A0?style=flat&logo=rust&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-7090A0?style=flat&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7090A0?style=flat&logo=redis&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-7090A0?style=flat&logo=polars&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-7A8E98?style=flat&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-7A8E98?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7A8E98?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-7A8E98?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7A8E98?style=flat&logo=githubactions&logoColor=white)
 ![boto3](https://img.shields.io/badge/boto3-7A8E98?style=flat&logo=python&logoColor=white)
 
 **AI & ML**
@@ -70,8 +80,10 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-A09060?style=flat&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-A09060?style=flat&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-A09060?style=flat&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-A09060?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-A09060?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-A09060?style=flat&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-A09060?style=flat&logo=onnx&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-A09060?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-A09060?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-A09060?style=flat&logoColor=white)
@@ -87,10 +99,15 @@
 
 **Embedded & Hardware**
 
+![ROS 2](https://img.shields.io/badge/ROS_2-8070A0?style=flat&logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-8070A0?style=flat&logo=nvidia&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8070A0?style=flat&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-8070A0?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-8070A0?style=flat&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-8070A0?style=flat&logo=arduino&logoColor=white)
+![Dynamixel](https://img.shields.io/badge/Dynamixel-8070A0?style=flat&logoColor=white)
 ![CAN](https://img.shields.io/badge/CAN-8070A0?style=flat&logoColor=white)
+![DBC](https://img.shields.io/badge/DBC-8070A0?style=flat&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-8070A0?style=flat&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-8070A0?style=flat&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-8070A0?style=flat&logoColor=white)
@@ -98,6 +115,8 @@
 ![Verilog](https://img.shields.io/badge/Verilog-8070A0?style=flat&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-8070A0?style=flat&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-8070A0?style=flat&logo=kicad&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-8070A0?style=flat&logoColor=white)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-8070A0?style=flat&logoColor=white)
 ![Soldering](https://img.shields.io/badge/Soldering-8070A0?style=flat&logoColor=white)
 
 **Developer Tools**
